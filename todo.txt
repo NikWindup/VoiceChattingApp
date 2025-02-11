@@ -1,0 +1,5 @@
+- [] Create Git repository
+- [x] Create Backend
+- [] Custom Login (In Future with Clerk)
+- [] Design Landing Page
+- [] Create Frontend
