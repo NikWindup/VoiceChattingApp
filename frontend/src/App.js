@@ -20,13 +20,13 @@ const main = (
         <li>JavaScript</li>
       </ul>
     </main>
-  )
+)
 
   const footer = (
     <footer>
       <p>Copyright 2020</p>
     </footer>
-  )
+)
 
 function App() {
   return (
